@@ -1,5 +1,4 @@
 # Test
-
 # h1
 ## h2
 ### h3
@@ -10,7 +9,8 @@
 
 **Fett geschrieben**
 
-*Kursiv*
+*Kursiv.* 
+[^1]
 
 ***Kursiv und Fett***
 
@@ -26,7 +26,16 @@ Planheft Auftrag:
 - [ ] Software-Lizenzen einholen
 - [ ] Installieren und Fertigstellen
 
-[Google](www.Google.de)
+[Google](www.Google.de) :thumbsup:
+
+Falls man etwas sucht :joy:
+
+| Tabelle | Beschreibung |
+| ------------ | ------------ |
+| Erste | Anfang |
+| Zweite | Erweiterung |
+|Dritte | Fortsetzung |
+| Vierte | Abschluss |
 
 ---
 
